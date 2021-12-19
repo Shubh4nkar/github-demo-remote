@@ -1,6 +1,6 @@
 #Add impl
 def sum(x, y):
-    pass
+    return x + y
 
 #Sub impl
 def sub(x, y):
